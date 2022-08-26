@@ -1,0 +1,11 @@
+ 
+tr td{
+    text-decoration:none;
+    color:#fff;
+    padding:5px 20px;
+    border:1px solid transparent;
+    transition:0.10s ease;
+}
+tr td:hover{
+    background-color:#fff;
+    color:#000
